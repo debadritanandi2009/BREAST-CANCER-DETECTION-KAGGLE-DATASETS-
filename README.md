@@ -1,0 +1,2 @@
+# BREAST-CANCER-DETECTION-KAGGLE-DATASETS-
+Here a dataset from kaggle is taken from which I have analysed and visualized the data regarding its mean using different procedures then a model is created of 3 major ML algorithms namely Logistic Regression,Decision Tree and Random Forest classifier from which I have chosen the one who has performed best on the test dataset and thereby classified the tumours present into malignant tumours and benign tumours and lastly compared with the test data
